@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.subheading{
+    color: rgb(154, 96, 209);
+    font-size: 9vw;
+    text-align: center;
+}
+.heading{
+    color: rgb(154, 96, 209);
+    text-align: center;
+    font-size: 10vw;
+    font-family: Segoe Print;
+}
+.image{
+    width: 60%;
+    border-radius: 100%;
+    margin-left: 30%;
+}
+.a{
+    color:lightgrey;
+   font-size: auto;
+   text-align: center; 
+   font-family: rockwell;
+}
+.leftimg{
+    width: 60%;
+    border-radius: 1000px;
+    margin-left: 40px;
+}
+.leader{
+    text-align: center;
+    font-size: 2.5vw;
+}
+.h1{
+    color: blueviolet;
+    font-size: 5vw;
+}
+.h2{
+    color: whitesmoke;
+    font-size: 3vw;
+}
+p.blocktext{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+.type_2 {
+width: 100%;
+}
+.pp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.pp1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 100%;
+}
+ .par{
+     color: whitesmoke;
+     font-size: 30px;
+ }
+ .Dot{
+    border-radius: 100%;
+    width: 5vw;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.data{
+    color: white;
+    font-size: 2.5vw;
+}
+.box1{
+    margin-left: auto;
+    margin-right: auto;
+}
+.link:hover{
+    color:rgb(217, 0, 255);
+}
+.floatLeft { width: 50%; float: left; 
+}
+.floatRight {width: 50%; float: right; 
+}
+.container { overflow: hidden; 
+}
+.A{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 100%;
+}
+.lineup{
+    background-color:rgb(49, 47, 47);
+    width: 100vw;
+}
+.M{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 100%;
+}
+.last{
+    background-color: grey;
+    width: 100vw;
+    height: 31vw;
+}
+.link1{
+    text-decoration: none;
+    color: white;
+    font-size: 4vw;
+}
+.ct{
+    border: 1px solid white;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+    text-align: center;
+	font-size: 2vw;
+	margin-top: 3vw;
+	display: inline-block;
+	color: white;
+}
+.c{
+    text-align: center;
+}
+.lastlogo{
+    width: 15vw;
+    border-radius: 100%;
+}
+.cr{
+    margin-left: 16vw;
+}
